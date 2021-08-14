@@ -1,0 +1,67 @@
+[ '-b', '-s', 'f1.txt', 'f2.txt' ]
+[ '-b', '-s' ]
+[ 'f1.txt', 'f2.txt' ]
+i am in f1
+
+
+
+
+
+here is also some content
+i am in f2
+
+
+
+
+
+here is also some content
+
+1 i am in f1
+
+here is also some content
+i am in f2
+
+here is also some content
+
+1 i am in f1
+
+here is also some content
+i am in f2
+
+here is also some content
+
+1 i am in f1
+
+2 here is also some content
+i am in f2
+
+here is also some content
+
+1 i am in f1
+
+2 here is also some content
+3 i am in f2
+
+here is also some content
+
+1 i am in f1
+
+2 here is also some content
+3 i am in f2
+
+here is also some content
+
+1 i am in f1
+
+2 here is also some content
+3 i am in f2
+
+4 here is also some content
+
+1 i am in f1
+
+2 here is also some content
+3 i am in f2
+
+4 here is also some content
+
